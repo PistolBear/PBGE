@@ -1,0 +1,3 @@
+# Enter below all files/folders that need to be ignored.
+*.[oa]
+*/gen/
